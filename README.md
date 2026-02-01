@@ -1,2 +1,34 @@
-# Akla-7ersha
-Akla-7ersha is an online food ordering system designed to provide users with a fast, simple, and reliable way to order meals online. The system allows customers to browse menus, select food items, add them to the cart, and place orders through a secure and user-friendly interface.
+# 🍔 Akla-7ersha - Online Food Ordering System
+
+A Java-based project for building an online food ordering system.
+
+This project is developed as a team project and includes:
+- Frontend UI
+- Backend Logic
+- Database
+- Manual & Automation Testing
+
+---
+
+## 📌 Project Status
+🚧 In Progress
+
+Currently implemented:
+- Basic Java program
+- Welcome message
+
+---
+
+## 🛠 Tech Stack
+
+- Java (OpenJDK 24)
+- IntelliJ IDEA
+- Git & GitHub
+- MySQL / SQLite (Planned)
+- Selenium (Planned)
+- Postman (Planned)
+- Jira (Planned)
+
+---
+
+## 📂 Project Structure (Planning)
